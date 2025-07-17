@@ -1,0 +1,10 @@
+pip>=23.0
+setuptools
+wheel
+numpy
+pandas
+scikit-learn
+xgboost
+imbalanced-learn
+cloudpickle
+scipy
